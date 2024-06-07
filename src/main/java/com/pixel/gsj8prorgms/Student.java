@@ -1,4 +1,4 @@
-package com.pixel.gsj8proems;
+package com.pixel.gsj8prorgms;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.pixel.gsj8proems;
+package com.pixel.gsj8prorgms;
 
 import java.util.*;
 import java.util.stream.Collectors;
